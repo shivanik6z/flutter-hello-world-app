@@ -1,6 +1,6 @@
-# flutter_app
+# flutter hello world app
 
-A new Flutter application.
+This is a simple flutter hello world app with stateless widget
 
 ## Getting Started
 
